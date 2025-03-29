@@ -95,7 +95,7 @@ const email = "dima213123@gmail.com";
 const result = email.includes("@");
 const symbols = email.length;
 console.log(result);
-console.log(Symbols);
+console.log(symbols);
 
 const resultat = 5 + 5 + '5';
 console.log(result);
