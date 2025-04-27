@@ -91,24 +91,29 @@
 
 // Home-Work 3
 
-const email = "dima213123@gmail.com";
-const result = email.includes("@");
-const symbols = email.length;
-console.log(result);
-console.log(symbols);
+// const email = "dima213123@gmail.com";
+// const result = email.includes("@");
+// const symbols = email.length;
+// console.log(result);
+// console.log(symbols);
 
-const resultat = 5 + 5 + '5';
-console.log(result);
-console.log(typeof result);
+// const resultat = 5 + 5 + '5';
+// console.log(result);
+// console.log(typeof result);
 
-const word1 = "my ";
-const word2 = "name ";
-const word3 = "is ";
-let fullName = word1 + word2 + word3;
-fullName += "Viktor";
-console.log(fullName);
+// const word1 = "my ";
+// const word2 = "name ";
+// const word3 = "is ";
+// let fullName = word1 + word2 + word3;
+// fullName += "Viktor";
+// console.log(fullName);
 
-const userName = "Олександро";
-const payment = 300;
-alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`);
+// const userName = "Олександро";
+// const payment = 300; 
+// alert(`Дякуємо, ${userName}! До сплати ${payment} гривень`);
 
+
+
+
+
+ 
