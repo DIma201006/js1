@@ -28,7 +28,7 @@ while (true)  {
     if (с >= n) {
         break;
     }
-    console.log(i);
+    console.log(i); 
     i++
 }
 
@@ -39,7 +39,7 @@ while (k <= 20) {
         continue;
     }
     console.log(k);
-    k++;
+    k++;  
 }
-
+ 
 
