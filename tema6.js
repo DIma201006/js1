@@ -39,7 +39,7 @@ while (k <= 20) {
         continue;
     }
     console.log(k);
-    k++;  
+    k++; є 
 }
  
 
