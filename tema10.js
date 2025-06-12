@@ -79,13 +79,13 @@ console.log(calculate(10, 0, divide));   // Повинно показати по
 
 
 function repeatMessage(times, messageCreator) {
-  const results = [];
+  const results = []; 
     for (let i = 0; i < times; i++) {
       results.push(messageCreator(i));
     }
     return results
 }
-
+  
 
 
 console.log(repeatMessage(5, i => `Повідомлення`));
