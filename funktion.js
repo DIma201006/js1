@@ -114,33 +114,33 @@ console.log(checkForSpam(message));
 
 
 
-let input;
-const numbers = [];
+// let input;
+// const numbers = [];
 
 
 
-while (true) {
-    input = prompt("ведіть число") 
+// while (true) {
+//     input = prompt("ведіть число") 
 
-    if (input === null) {
-        break
-    } 
-    if (isNaN(input)) {
-        alert('Було введено не число, попробуйте ще раз')
-        continue
-    } 
-    input = Number(input) 
-    numbers.push(input)
-}
+//     if (input === null) {
+//         break
+//     } 
+//     if (isNaN(input)) {
+//         alert('Було введено не число, попробуйте ще раз')
+//         continue
+//     } 
+//     input = Number(input) 
+//     numbers.push(input)
+// }
 
-if (numbers.length > 0) {
-    let total = 0;
-    for (const number of numbers) {
-         total += number
-    }
-    console.log(total);
+// if (numbers.length > 0) {
+//     let total = 0;
+//     for (const number of numbers) {
+//          total += number
+//     }
+//     console.log(total);
     
-}
+// }
  
 // Створіть функцію, яка рахує, скільки елементів масиву відповідають певній умові, використовуючи колбек-функцію для перевірки.
 
